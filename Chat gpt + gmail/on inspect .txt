@@ -3,3 +3,7 @@ window.onhashchange= function(){
         console.log('I am now in an email: ' + 
                     window.location.hash);
     }
+    
+    
+    //some more code 
+    
