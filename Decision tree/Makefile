@@ -3,4 +3,6 @@ dt.exe : decision_tree.o
 
 decision_tree.o : decision_tree.cpp
 	g++ -std=c++11 -c -o decision_tree.o decision_tree.cpp
+	
+	// this is just try
 
